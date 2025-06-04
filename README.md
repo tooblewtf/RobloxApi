@@ -63,9 +63,9 @@
     | Url | Description | Api/Documentation |
     | -: | :- | :- |
     | [static.rbxcdn.com](https://static.rbxcdn.com) | No Description | Undocumented |
-    | [robloxlabs.com](https://robloxlabs.com) | No Description | https://github.com/tooblewtf/RobloxApi/blob/main/Other/robloxlabs.com.md |
+    | [robloxlabs.com](https://robloxlabs.com) | No Description | BELOW |
     | [rbxcdn.com](https://rbxcdn.com/) | Content Delivery Network for Roblox | Undocumented |
-    | [rbx.com](https://rbx.com) | No Description | https://github.com/tooblewtf/RobloxApi/blob/main/Other/rbx.com.md |
+    | [rbx.com](https://rbx.com) | No Description | BELOW |
     | [corp.roblox.com](https://corp.roblox.com) | No Description | Undocumented |
     | [ro.blox.com](https://ro.blox.com) | No Description | Undocumented |
     | [roblox.qq.com](https://roblox.qq.com) | LouBu | Undocumented |
