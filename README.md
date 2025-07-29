@@ -214,3 +214,8 @@ random things
 https://www.roblox.com/client-status
 http://clientsettingscdn.roblox.com:443
 http://ephemeralcounters.api.roblox.com:443
+
+__
+deploy history
+
+https://setup.rbxcdn.com/channel/zbeta/DeployHistory.txt
