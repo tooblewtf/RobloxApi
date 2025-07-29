@@ -218,3 +218,5 @@ https://www.roblox.com/client-status
 http://clientsettingscdn.roblox.com:443
 http://ephemeralcounters.api.roblox.com:443
 https://csm.roblox.com/v1/router/?id=&universeId=6462292219
+
+https://setup.rbxcdn.com/channel/zbeta/DeployHistory.txt (new)
